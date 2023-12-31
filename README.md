@@ -6,7 +6,7 @@ Home page.
 <img src="/assets/images_for_git/home_page.png?raw=true " width="400" height="790">
 
 Calendar page.
-![Home page](/assets/images_for_git/calendar_page.png?raw=true )
+<img src="/assets/images_for_git/calendar_page.png?raw=true" width="400" height="790">
 
 Task detail page.
-![Home page](/assets/images_for_git/task_detail_page.png?raw=true )
+<img src="/assets/images_for_git/task_detail_page.png?raw=true " width="400" height="790">
